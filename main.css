@@ -384,6 +384,46 @@
   font-weight: bold;
 }
 
+.section6 {
+  width: 100%;
+  height: 650px;
+  margin-bottom: 2rem;
+}
+.section6 .sec6-in {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+.section6 .sec6-in h1 {
+  font-size: 45px;
+  color: rgb(0, 0, 46);
+}
+.section6 .sec6-in p {
+  color: rgb(83, 83, 83);
+  line-height: 30px;
+  font-size: 18px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.section6 .sec6-in .spans img {
+  width: 40px;
+  height: 40px;
+}
+.section6 .sec6-in .spans span {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(0, 0, 46);
+  margin-left: 1rem;
+}
+.section6 .sec6-in .forimg {
+  width: 480px;
+  height: 500px;
+  border-radius: 30px;
+  background-image: url(https://mobirise.com/extensions/kidsm4/assets/images/gallery05.jpg);
+  background-size: cover;
+}
+
 @media screen and (min-width: 320px) and (max-width: 768px) {
   .section1 {
     height: auto;
